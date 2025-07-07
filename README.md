@@ -14,4 +14,4 @@ This Power BI dashboard provides interactive insights into sales by region, prod
 - Sales Dashboard.png — Preview image of the dashboard
 
 # Skills Demonstrated:
-Power BI • DAX • Data Modeling • Time Intelligence • Visualization Design
+Power BI • DAX • Data Modeling • Time Intelligence • Visualization Design.
